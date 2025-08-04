@@ -1,6 +1,6 @@
 # Trabalho de Agronomia - UFSC
 
-Este repositório contém o trabalho acadêmico desenvolvido para a disciplina de [Inserir Nome da Disciplina] do curso de Agronomia da Universidade Federal de Santa Catarina.
+Este repositório contém o trabalho acadêmico desenvolvido para a disciplina de xxx do curso de Agronomia da Universidade Federal de Santa Catarina.
 
 ## 📄 Visualização do Documento
 
