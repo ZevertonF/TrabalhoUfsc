@@ -12,7 +12,11 @@ Clique na imagem abaixo para visualizar ou baixar o PDF completo do trabalho.
 
 ## 📝 Sobre o Projeto
 
-Este trabalho aborda [Descreva aqui o tema principal do seu trabalho]. O objetivo foi analisar [Descreva o objetivo em uma ou duas frases].
+Este repositório contém um template para trabalhos acadêmicos, como relatórios e artigos, formatado com **Typst**.
+
+O principal objetivo deste projeto foi desenvolver um **template acadêmico flexível e de fácil utilização em Typst**. A inspiração surgiu da necessidade de uma alternativa mais moderna e intuitiva às plataformas tradicionais como o Overleaf (que utiliza LaTeX).
+
+O template busca simplificar o processo de formatação de trabalhos científicos, permitindo que estudantes e pesquisadores foquem no conteúdo, enquanto o design e a estrutura ABNT (ou de outra norma) são aplicados de forma automática e eficiente.
 
 ### Ferramenta Utilizada
 
@@ -33,5 +37,11 @@ Para gerar o arquivo PDF a partir do código-fonte (`.typ`), você precisa ter o
 
 Com o Typst instalado, execute o seguinte comando no seu terminal, dentro da pasta do projeto:
 
+📜 Licença
+Este projeto é distribuído sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+(Dica: Você pode criar um arquivo chamado LICENSE no seu repositório e escolher uma licença padrão no GitHub para formalizar isso).
+
+
 ```bash
 typst compile main.typ Trabalho.pdf
+Esta nova versão deixa seu repositório muito mais informativo e útil para quem o visita.
