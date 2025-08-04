@@ -18,25 +18,6 @@ O principal objetivo deste projeto foi desenvolver um **template acadêmico flex
 
 O template busca simplificar o processo de formatação de trabalhos científicos, permitindo que estudantes e pesquisadores foquem no conteúdo, enquanto o design e a estrutura ABNT (ou de outra norma) são aplicados de forma automática e eficiente.
 
-## 📂 Estrutura do Repositório
-
-O projeto está organizado da seguinte forma:
-
--   `main.typ`: O arquivo principal do código-fonte do trabalho em Typst.
--   `Trabalho.pdf`: O documento final compilado, pronto para visualização.
--   `preview.png`: A imagem de pré-visualização utilizada neste README.
--   `referencias.bib`: (Opcional) Arquivo de bibliografia, caso você use um.
-
-## ⚙️ Como Compilar o Projeto
-
-Para gerar o arquivo PDF a partir do código-fonte (`.typ`), você precisa ter o [Typst instalado](httpss://github.com/typst/typst#installation ).
-
-Com o Typst instalado, execute o seguinte comando no seu terminal, dentro da pasta do projeto:
-
-📜 Licença
-Este projeto é distribuído sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
-(Dica: Você pode criar um arquivo chamado LICENSE no seu repositório e escolher uma licença padrão no GitHub para formalizar isso).
-
 
 ```bash
 typst compile main.typ Trabalho.pdf
