@@ -18,10 +18,6 @@ O principal objetivo deste projeto foi desenvolver um **template acadêmico flex
 
 O template busca simplificar o processo de formatação de trabalhos científicos, permitindo que estudantes e pesquisadores foquem no conteúdo, enquanto o design e a estrutura ABNT (ou de outra norma) são aplicados de forma automática e eficiente.
 
-### Ferramenta Utilizada
-
-O documento foi inteiramente formatado utilizando [**Typst**](httpss://typst.app ), um moderno sistema de diagramação baseado em marcação. A escolha pelo Typst permitiu a criação de um documento com alta qualidade tipográfica de forma rápida e eficiente, ideal para os padrões acadêmicos.
-
 ## 📂 Estrutura do Repositório
 
 O projeto está organizado da seguinte forma:
